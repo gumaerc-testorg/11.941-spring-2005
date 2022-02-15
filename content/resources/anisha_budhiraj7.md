@@ -3,8 +3,13 @@ content_type: resource
 description: This resource is the reaction paper by the student on the topic 'Patterns
   Disaster Pressure and Release', 'Access to Resources and Coping in Adversity', and
   'Factors Influencing Disaster Preparedness and Response'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/df8c7a2307c13d24cdcc5d7878f748ef_anisha_budhiraj7.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/df8c7a2307c13d24cdcc5d7878f748ef_anisha_budhiraj7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: anisha_budhiraj7.pdf
 uid: df8c7a23-07c1-3d24-cdcc-5d7878f748ef

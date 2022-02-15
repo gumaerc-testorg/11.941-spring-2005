@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by the student on the topic 'Governance
   and Community Resilience'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/f7db14da89b379b1084e25ad2ba68122_emily_farr10.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f7db14da89b379b1084e25ad2ba68122_emily_farr10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: emily_farr10.pdf
 uid: f7db14da-89b3-79b1-084e-25ad2ba68122

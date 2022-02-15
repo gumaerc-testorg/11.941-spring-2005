@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource covers: Speaker Background, Overview of Field, and Recommended
   Reading.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/db25c3df4a7fbd45055b2d7cecd30d01_tierney_lect7.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/db25c3df4a7fbd45055b2d7cecd30d01_tierney_lect7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: tierney_lect7.pdf
 uid: db25c3df-4a7f-bd45-055b-2d7cecd30d01

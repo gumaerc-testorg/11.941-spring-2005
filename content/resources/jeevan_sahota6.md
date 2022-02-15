@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by Jeevan Sahota on the topic 'Transboundary
   Risk and Public Trust'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/c98554960e34c935a39fff63faeb9e2b_jeevan_sahota6.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c98554960e34c935a39fff63faeb9e2b_jeevan_sahota6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: jeevan_sahota6.pdf
 uid: c9855496-0e34-c935-a39f-ff63faeb9e2b

@@ -4,8 +4,13 @@ description: 'This resource is the reaction paper by the student on the topics '
   Urban Vulnerability and Social Adaptation to Risk'', ''From everyday hazards to
   disasters: the accumulation of risk in urban areas'' and ''The Vulnerability of
   Cities''.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/0f3b10320451516be322440ea81eae2d_amy_mowl1.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/0f3b10320451516be322440ea81eae2d_amy_mowl1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: amy_mowl1.pdf
 uid: 0f3b1032-0451-516b-e322-440ea81eae2d

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource talks about balancing personal interets/needs with social
   responsibilities.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/5647b12f1e0dcffce3ff636247858035_emily_farr11.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/5647b12f1e0dcffce3ff636247858035_emily_farr11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: emily_farr11.pdf
 uid: 5647b12f-1e0d-cffc-e3ff-636247858035

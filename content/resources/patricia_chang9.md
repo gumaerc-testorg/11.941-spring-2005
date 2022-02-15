@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper of the student on the topic 'Resilient
   Cities'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/d52f3fd803ed45287674c69c8a7a59dc_patricia_chang9.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d52f3fd803ed45287674c69c8a7a59dc_patricia_chang9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: patricia_chang9.pdf
 uid: d52f3fd8-03ed-4528-7674-c69c8a7a59dc

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the biography of Rudolph.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/33ff0ea53bd449656709c53b3a6b552c_rudolphbio.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/33ff0ea53bd449656709c53b3a6b552c_rudolphbio.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: rudolphbio.pdf
 uid: 33ff0ea5-3bd4-4965-6709-c53b3a6b552c

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by the student Tristan Weir on the
   topic 'Resilient Cities'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/614cf0b9ccb92de2cfd1603fb0776223_tristan_weir9.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/614cf0b9ccb92de2cfd1603fb0776223_tristan_weir9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: tristan_weir9.pdf
 uid: 614cf0b9-ccb9-2de2-cfd1-603fb0776223

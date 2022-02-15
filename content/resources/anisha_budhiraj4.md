@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper on the topics 'Climate Instability
   and Public Health','Assessing Climate Stability'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/bd5b4620c2a5b6978162c1241f70ca76_anisha_budhiraj4.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/bd5b4620c2a5b6978162c1241f70ca76_anisha_budhiraj4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: anisha_budhiraj4.pdf
 uid: bd5b4620-c2a5-b697-8162-c1241f70ca76

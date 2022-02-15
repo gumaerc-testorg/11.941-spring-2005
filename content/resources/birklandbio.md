@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the biography of Birkland.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/84d709b3c2a570db5a16dfb78547c114_birklandbio.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/84d709b3c2a570db5a16dfb78547c114_birklandbio.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: birklandbio.pdf
 uid: 84d709b3-c2a5-70db-5a16-dfb78547c114

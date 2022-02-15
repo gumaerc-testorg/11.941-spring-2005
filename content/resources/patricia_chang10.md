@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper of the student on the topic 'Governance
   and Community Resilience'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/c1beab76494696131d680ad322764684_patricia_chang10.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c1beab76494696131d680ad322764684_patricia_chang10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: patricia_chang10.pdf
 uid: c1beab76-4946-9613-1d68-0ad322764684

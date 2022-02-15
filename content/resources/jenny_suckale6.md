@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by Jenny Suckale on the topic 'Transboundary
   Risk and Public Trust'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/72e96fb754e021bc52743b2eb495bae0_jenny_suckale6.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/72e96fb754e021bc52743b2eb495bae0_jenny_suckale6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: jenny_suckale6.pdf
 uid: 72e96fb7-54e0-21bc-5274-3b2eb495bae0

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by Jeevan Sahota on the topic 'Governance
   and Community Resilience'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/351ca0219f5b0aa3a27c6c7f9c3659e6_jeevan_sahota10.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/351ca0219f5b0aa3a27c6c7f9c3659e6_jeevan_sahota10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: jeevan_sahota10.pdf
 uid: 351ca021-9f5b-0aa3-a27c-6c7f9c3659e6

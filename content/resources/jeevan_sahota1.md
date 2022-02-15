@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by Jeevan Sahota on the topic 'Disaster
   Vulnerability and Social Resilience'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/2da9a80e549c8fc25b39bfc92a6d2346_jeevan_sahota1.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/2da9a80e549c8fc25b39bfc92a6d2346_jeevan_sahota1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: jeevan_sahota1.pdf
 uid: 2da9a80e-549c-8fc2-5b39-bfc92a6d2346

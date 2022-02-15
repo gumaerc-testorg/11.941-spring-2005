@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by Melissa Scudo on the topic 'Patterns
   of Social Vulnerability'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/cbcc8bd4b859b90036153eed071fc1fb_melissa_scudo7.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/cbcc8bd4b859b90036153eed071fc1fb_melissa_scudo7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: melissa_scudo7.pdf
 uid: cbcc8bd4-b859-b900-3615-3eed071fc1fb

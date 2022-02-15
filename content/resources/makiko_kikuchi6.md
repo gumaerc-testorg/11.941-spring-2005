@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by Makiko Kikuchi on the topic 'Transboundary
   Risk and Public Trust'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/b7a71881b3bc0c8c3df7c4f8dc574281_makiko_kikuchi6.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b7a71881b3bc0c8c3df7c4f8dc574281_makiko_kikuchi6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: makiko_kikuchi6.pdf
 uid: b7a71881-b3bc-0c8c-3df7-c4f8dc574281

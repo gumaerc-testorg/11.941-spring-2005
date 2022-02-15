@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is the reaction paper by Emily Farr on the topic 'Assessing
   Urban Vulnerability'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-disaster-vulnerability-and-resilience-spring-2005/0e15aa350ff5c6e5f18c061da9b0b479_emily_farr1.pdf
+file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/0e15aa350ff5c6e5f18c061da9b0b479_emily_farr1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: emily_farr1.pdf
 uid: 0e15aa35-0ff5-c6e5-f18c-061da9b0b479
