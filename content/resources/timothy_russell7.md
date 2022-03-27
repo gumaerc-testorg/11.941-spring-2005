@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: timothy_russell7.pdf
 uid: 4ac429f6-1301-239a-ecd6-c2926832711c

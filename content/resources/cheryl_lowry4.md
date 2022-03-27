@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: cheryl_lowry4.pdf
 uid: e1e46c83-e96d-23b0-49af-c1bfaec14ef4

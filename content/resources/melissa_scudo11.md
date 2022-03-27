@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: melissa_scudo11.pdf
 uid: 0f29f5d6-260d-defa-b01b-16ffe6813129

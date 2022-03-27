@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: anisha_budhiraj4.pdf
 uid: bd5b4620-c2a5-b697-8162-c1241f70ca76

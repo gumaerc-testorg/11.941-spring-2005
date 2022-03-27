@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c465cf36-b2cd-f07c-c5dc-7a10d5f64453
 resourcetype: Document
 title: epsteinbio.pdf
 uid: 2318dc28-bbdf-16e2-4c31-92acd3bb84de

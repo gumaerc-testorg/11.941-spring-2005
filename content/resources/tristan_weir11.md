@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: tristan_weir11.pdf
 uid: 6ac4b2f3-db46-d2f9-dd01-c69fdb3fe97d

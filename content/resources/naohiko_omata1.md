@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: naohiko_omata1.pdf
 uid: c531972b-ca1f-0d7a-c4e7-0d2f5ae96d1a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c465cf36-b2cd-f07c-c5dc-7a10d5f64453
 resourcetype: Document
 title: rudolphbio.pdf
 uid: 33ff0ea5-3bd4-4965-6709-c53b3a6b552c

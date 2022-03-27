@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: makiko_kikuchi1.pdf
 uid: 46282e57-f1c2-f160-b8e6-6e1ba4eaadd1

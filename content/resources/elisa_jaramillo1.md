@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: elisa_jaramillo1.pdf
 uid: 5888c1c6-8f7b-9d1d-97d2-4e55f87a3608

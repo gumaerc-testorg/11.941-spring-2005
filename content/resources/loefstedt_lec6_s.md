@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c465cf36-b2cd-f07c-c5dc-7a10d5f64453
 resourcetype: Document
 title: loefstedt_lec6_s.pdf
 uid: 4e01f944-0003-6c1a-0d70-46cde27e5133

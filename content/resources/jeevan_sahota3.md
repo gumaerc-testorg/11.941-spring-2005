@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: jeevan_sahota3.pdf
 uid: e2f9ec79-dd1b-6d9d-5595-80f99a83a0ab

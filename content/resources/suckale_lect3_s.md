@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c465cf36-b2cd-f07c-c5dc-7a10d5f64453
 resourcetype: Document
 title: suckale_lect3_s.pdf
 uid: 9e239c61-df75-1f15-9db8-5bc7809539af

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: amy_mowl4.pdf
 uid: 6fad73de-7aa7-5c53-57b9-eb6d3ef0aa87

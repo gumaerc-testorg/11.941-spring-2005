@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 025decc2-3746-51df-f1f2-1fd5ad489b6e
 resourcetype: Document
 title: yumiko_nakagaw11.pdf
 uid: c121b7c4-6d2d-76ce-23d4-957b1ef50256
