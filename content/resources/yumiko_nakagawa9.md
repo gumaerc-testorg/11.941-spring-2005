@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student Yumiko Nakagawa on
   the topic 'Resilient Cities'.
-file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/3371dfede46f07dc7525bcbf6106e6a4_yumiko_nakagawa9.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/3371dfede46f07dc7525bcbf6106e6a4_yumiko_nakagawa9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: yumiko_nakagawa9.pdf
 uid: 3371dfed-e46f-07dc-7525-bcbf6106e6a4
 ---
+This resource is the reaction paper by the student Yumiko Nakagawa on the topic 'Resilient Cities'.
+

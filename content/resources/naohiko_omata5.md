@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Naohiko Omata on the topic 'Disaster
   Policy and Institutions'.
-file: /media/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/30afcef1e923399ee25f00cdd4f5adee_naohiko_omata5.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/30afcef1e923399ee25f00cdd4f5adee_naohiko_omata5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: naohiko_omata5.pdf
 uid: 30afcef1-e923-399e-e25f-00cdd4f5adee
 ---
+This resource is the reaction paper by Naohiko Omata on the topic 'Disaster Policy and Institutions'.
+
