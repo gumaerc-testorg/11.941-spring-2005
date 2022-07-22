@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/99dd085a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: makiko_kikuchi5.pdf
 uid: 99dd085a-391d-87e4-19ff-e61511010b2a
 ---
 This resource is the reaction paper by Makiko Kikuchi on the topic 'Disaster Policy and Institutions'.
-

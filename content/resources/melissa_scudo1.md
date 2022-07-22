@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/18ce4057
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: melissa_scudo1.pdf
 uid: 18ce4057-ba34-a2ed-72f3-305d0e4ccf42
 ---
 This resource is the reaction paper by Melissa Scudo on the topic 'Disaster Vulnerability and Social Resilience'.
-

@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d52f3fd8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: patricia_chang9.pdf
 uid: d52f3fd8-03ed-4528-7674-c69c8a7a59dc
 ---
 This resource is the reaction paper of the student on the topic 'Resilient Cities'.
-

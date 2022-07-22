@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d885b39f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: yumiko_nakagawa3.pdf
 uid: d885b39f-258d-fd59-c107-fde82f7c4cd4
 ---
 This resource is the reaction paper by the student Yumiko Nakagawa on the topic 'Community Vulnerability Analysis'.
-

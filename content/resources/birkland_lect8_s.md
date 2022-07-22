@@ -8,6 +8,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d5c88781
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: d5c88781-e5e8-d69b-41f4-791f6fa0a903
 ---
 This resource covers problem definition
 agenda setting, policy development, alternative selection, implementation, eEvaluation, and feedback.
-

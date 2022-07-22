@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/db25c3df
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tierney_lect7.pdf
 uid: db25c3df-4a7f-bd45-055b-2d7cecd30d01
 ---
 This resource covers: Speaker Background, Overview of Field, and Recommended Reading.
-

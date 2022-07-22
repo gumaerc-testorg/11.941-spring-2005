@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6cda6c24
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: jenny_suckale10.pdf
 uid: 6cda6c24-9e04-f268-7b46-2ea51c352c83
 ---
 This resource is the reaction paper by Jenny Suckale on the topic 'Governance and Community Resilience'.
-

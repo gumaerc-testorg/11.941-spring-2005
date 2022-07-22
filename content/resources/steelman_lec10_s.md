@@ -8,6 +8,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/760afc04
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 760afc04-004b-e885-e4f2-1efab39018d1
 ---
 This resource contains the following topics:
 policy sciences, concept of the common interest, decision process, wildfire problem, and community responses to wildfire risk.
-

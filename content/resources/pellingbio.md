@@ -5,6 +5,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a0d3112a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pellingbio.pdf
 uid: a0d3112a-3873-1dfa-cd9b-eb982d3b16cb
 ---
 This resource contains the biography of Pelling.
-

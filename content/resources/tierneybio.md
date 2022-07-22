@@ -5,6 +5,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/48275645
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tierneybio.pdf
 uid: 48275645-9ba7-7f56-fa3f-a25ed79fdcd1
 ---
 This resource contains the biography of Tierney.
-

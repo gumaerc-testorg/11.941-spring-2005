@@ -8,6 +8,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/dd2a5484
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: dd2a5484-e34f-f67b-d2ef-d83dea58f8d8
 ---
 This resource contains the following topics:
 relationship between the environment and war, policy implications, and research questions.
-

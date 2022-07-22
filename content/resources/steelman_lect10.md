@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/9062066f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: steelman_lect10.pdf
 uid: 9062066f-b153-6385-f077-c0353e11c243
 ---
 This resource covers: Policy Sciences, The Decision Process, Concept of the Common Interest, Wildfire Problem, and Community Responses to Wildfire Risk.
-

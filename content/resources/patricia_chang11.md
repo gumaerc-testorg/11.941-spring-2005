@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/45480f22
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: patricia_chang11.pdf
 uid: 45480f22-975d-0df1-bab8-7c16d6c966af
 ---
 This resource is the reaction paper of the student on the topic 'Threat, Error, and Resilience in High Hazard Settings'.
-

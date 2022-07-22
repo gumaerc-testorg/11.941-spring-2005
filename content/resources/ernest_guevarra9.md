@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a1008290
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ernest_guevarra9.pdf
 uid: a1008290-219a-4b34-e58f-a74ef048c3b9
 ---
 This resource is the reaction paper by Ernest Guevarra on the topic 'Resilient Cities'.
-

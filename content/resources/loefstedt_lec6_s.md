@@ -8,6 +8,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/4e01f944
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 4e01f944-0003-6c1a-0d70-46cde27e5133
 ---
 This resource contains the following topics:
 risk communication strategies, new thinking and theories, risk communication and acrylamide, and conclusions.
-

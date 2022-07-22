@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/26ef84e1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: emily_farr5.pdf
 uid: 26ef84e1-bd51-9329-7c20-5cbc2f8c9c77
 ---
 This resource is the reaction paper by the student on the topic 'Disaster Policy and Institutions'.
-

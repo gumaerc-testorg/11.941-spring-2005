@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/214e7d51
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: anisha_budhira11.pdf
 uid: 214e7d51-0398-4237-702f-1e1967a6890f
 ---
 This resource is the reaction paper by the student on the topic 'Threat, Error, and Resilience in High Hazard Settings'.
-

@@ -5,6 +5,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/2318dc28
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: epsteinbio.pdf
 uid: 2318dc28-bbdf-16e2-4c31-92acd3bb84de
 ---
 This resource contains the biography of Epstein.
-

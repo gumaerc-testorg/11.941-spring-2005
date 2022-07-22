@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f7db14da
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: emily_farr10.pdf
 uid: f7db14da-89b3-79b1-084e-25ad2ba68122
 ---
 This resource is the reaction paper by the student on the topic 'Governance and Community Resilience'.
-

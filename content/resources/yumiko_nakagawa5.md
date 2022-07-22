@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/33715858
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: yumiko_nakagawa5.pdf
 uid: 33715858-fe45-c1e4-00f7-85410cddda90
 ---
 This resource is the reaction paper by the student Yumiko Nakagawa on the topic 'Disaster Policy and Institutions'.
-

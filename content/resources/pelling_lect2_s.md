@@ -8,6 +8,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/273e8c47
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 273e8c47-09c9-f212-4945-ffb5d2a97b8a
 ---
 This resource contains the following topics:
 global science and policy context, urban vulnerability, and measuring vulnerability, and language is an unresolved barrier.
-

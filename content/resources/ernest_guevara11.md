@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b6f338ae
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ernest_guevara11.pdf
 uid: b6f338ae-f383-0d95-4f96-bbaf2bb2cbe4
 ---
 This resource talks about the challenge or theme illustrated by the reaction paper: Misunderstood Intentions.
-

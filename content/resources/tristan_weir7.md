@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/e4e3af22
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tristan_weir7.pdf
 uid: e4e3af22-7b49-24ae-f302-0599f14555df
 ---
 This resource is the reaction paper by the student Tristan Weir on the topic 'Patterns of Social Vulnerability'.
-

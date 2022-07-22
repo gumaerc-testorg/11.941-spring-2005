@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f36507f5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: amy_mowl6.pdf
 uid: f36507f5-c637-8aae-8dc6-11a8dd7f8af0
 ---
 This resource is the reaction paper by the student on the topic 'Transboundary Risk and Public Trust'.
-

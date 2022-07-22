@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/31025534
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: jeevan_sahota5.pdf
 uid: 31025534-4d73-dd13-9a52-6c22b5e0ab08
 ---
 This resource is the reaction paper by Jeevan Sahota on the topic 'Disaster Policy and Institutions'.
-

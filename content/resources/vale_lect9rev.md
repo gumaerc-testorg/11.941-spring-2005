@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/45999f98
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: vale_lect9rev.pdf
 uid: 45999f98-dfc2-ef22-17fc-acd4d63fb341
 ---
 This resource contains the discussion on how modern cities recover from disaster with some examples of cities.
-

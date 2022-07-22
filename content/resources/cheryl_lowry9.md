@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8a5a7cd3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cheryl_lowry9.pdf
 uid: 8a5a7cd3-5823-e8b1-9717-26eb0733905d
 ---
 This resource is the reaction paper by the student on the topic 'Resilient Cities'.
-

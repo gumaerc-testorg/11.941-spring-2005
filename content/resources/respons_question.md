@@ -5,6 +5,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/5873705e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: respons_question.pdf
 uid: 5873705e-6e82-6ac4-1750-1607fbd8a6cc
 ---
 This resource covers questions to be addressed in your response paper.
-

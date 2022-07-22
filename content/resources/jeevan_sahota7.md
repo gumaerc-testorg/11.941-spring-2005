@@ -7,6 +7,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b57c7d98
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: jeevan_sahota7.pdf
 uid: b57c7d98-7b96-765f-9a84-4619fdae6801
 ---
 This resource is the reaction paper by Jeevan Sahota on the topics 'The Nature of Vulnerability: Two Models', 'al., Access to Resources and Coping in Adversity', and 'Factors Influencing Disaster Preparedness andResponse'.
-

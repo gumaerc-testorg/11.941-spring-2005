@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/88329dcb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: amy_mowl11.pdf
 uid: 88329dcb-45ef-608e-f5b2-2332b4416178
 ---
 This resource is the reaction paper by the student on the topic 'Threat, Error, and Resilience in High Hazard Settings'.
-

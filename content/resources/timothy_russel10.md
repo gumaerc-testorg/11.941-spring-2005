@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/0236f7ab
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: timothy_russel10.pdf
 uid: 0236f7ab-42f5-bcbd-3718-dbc524c557d4
 ---
 This resource is the reaction paper by Timothy Russell on the topic 'Governance and Community Resilience'.
-

@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/2a3e8c79
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ernest_guevara10.pdf
 uid: 2a3e8c79-6a0b-1422-9983-932e6f97d5b9
 ---
 This resource is the reaction paper by Ernest Guevarra on the topic 'Governance and Community Resilience'.
-

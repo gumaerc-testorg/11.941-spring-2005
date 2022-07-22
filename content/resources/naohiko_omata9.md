@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d835ab2c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: naohiko_omata9.pdf
 uid: d835ab2c-d640-6f60-2160-e00297b05d1a
 ---
 This resource is the reaction paper by Naohiko Omata on the topic 'Resilient Cities'.
-

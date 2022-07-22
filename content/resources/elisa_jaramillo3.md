@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d4453f11
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: elisa_jaramillo3.pdf
 uid: d4453f11-6980-a757-80de-6eb4490fc63c
 ---
 This resource is the reaction paper by the student on the topic 'Community Vulnerability Analysis'.
-

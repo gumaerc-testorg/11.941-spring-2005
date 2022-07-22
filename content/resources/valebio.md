@@ -5,6 +5,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6f39c150
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: valebio.pdf
 uid: 6f39c150-99e9-d0e0-d476-a1e23ab022d8
 ---
 This resource contains the biography of Vale.
-

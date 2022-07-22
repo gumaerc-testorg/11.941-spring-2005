@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/76545d99
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: patricia_chang8.pdf
 uid: 76545d99-019a-df45-bb03-31ac7e4149b1
 ---
 This resource is the reaction paper of the student on the topic 'Disaster Politics and Agenda Setting'.
-

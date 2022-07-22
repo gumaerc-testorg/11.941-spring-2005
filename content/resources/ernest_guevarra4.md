@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b9fd3f5a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ernest_guevarra4.pdf
 uid: b9fd3f5a-a97a-ab15-b98a-52375ef5c24d
 ---
 This resource is the reaction paper by  Ernest Guevarra on the topics 'Climate Instability and Public Health', and 'Disaster Funding'.
-

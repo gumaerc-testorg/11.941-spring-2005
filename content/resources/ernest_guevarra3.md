@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/95c72962
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ernest_guevarra3.pdf
 uid: 95c72962-1b71-72e2-2ed2-719aa676598b
 ---
 This resource is the reaction paper of Ernest Guevarra on the topic 'Community Vulnerability Analysis'.
-

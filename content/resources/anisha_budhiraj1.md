@@ -7,6 +7,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/4d8e1f0b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: anisha_budhiraj1.pdf
 uid: 4d8e1f0b-4370-3d9b-8293-7943e1f5b413
 ---
 This resource is the reaction paper on the topic 'Assessing Urban Vulnerability and Social Adaptation to Risk', 'The Vulnerability of Cities', 'From Everyday Hazards to Disasters', and 'Natural Disasters'.
-

@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a7fc09a7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: emily_farr9.pdf
 uid: a7fc09a7-2a58-d8a1-cbda-30ccadaf8189
 ---
 This resource is the reaction paper by the student on the topic 'Resilient Cities'.
-

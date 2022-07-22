@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/53820dea
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: yumiko_nakagawa1.pdf
 uid: 53820dea-4e01-2312-485f-3f737a568e42
 ---
 This resource is the reaction paper by the student Yumiko Nakagawa on the topic 'Disaster Vulnerability and Social Resilience'.
-

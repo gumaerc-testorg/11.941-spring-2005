@@ -7,6 +7,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/910cad9c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 910cad9c-88bc-70f4-691e-148986bc2f4c
 ---
 This resource contains the following topics:
 risk communication, and risk communication in action.
-

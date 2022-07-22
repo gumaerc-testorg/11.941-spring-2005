@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7f07511c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: makiko_kikuchi9.pdf
 uid: 7f07511c-a20c-a698-81b6-9d1e26f1faab
 ---
 This resource is the reaction paper by Makiko Kikuchi on the topic 'Resilient Cities'.
-

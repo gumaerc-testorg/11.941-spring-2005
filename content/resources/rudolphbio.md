@@ -5,6 +5,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/33ff0ea5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rudolphbio.pdf
 uid: 33ff0ea5-3bd4-4965-6709-c53b3a6b552c
 ---
 This resource contains the biography of Rudolph.
-

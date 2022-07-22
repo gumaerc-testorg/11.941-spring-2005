@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/eb272034
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ernest_guevarra5.pdf
 uid: eb272034-913f-6fef-d5b9-f17ccd34bd21
 ---
 This resource is the reaction paper of Ernest Guevarra on the topic 'Disaster Policy and Institutions'.
-

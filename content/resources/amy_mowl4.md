@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6fad73de
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: amy_mowl4.pdf
 uid: 6fad73de-7aa7-5c53-57b9-eb6d3ef0aa87
 ---
 This resource is the reaction paper by the student on the topics 'Climate Instability and Public Health', and 'Disaster Funding'.
-

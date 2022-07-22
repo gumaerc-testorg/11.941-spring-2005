@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d4e6262d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ernest_guevarra1.pdf
 uid: d4e6262d-7f32-dd4e-4e2b-e6023db5374e
 ---
 This resource is the reaction paper by Ernest Guevarra on the topic 'Disaster Vulnerability and Social Resilience'.
-

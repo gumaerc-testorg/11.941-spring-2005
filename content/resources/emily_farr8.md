@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c0c4daa4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: emily_farr8.pdf
 uid: c0c4daa4-e5b8-2a3d-5d13-334b7657a067
 ---
 This resource is the reaction paper by the student on the topic 'Disaster Politics and Agenda Setting'.
-

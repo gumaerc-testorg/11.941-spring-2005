@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7b506d57
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: anisha_budhiraj6.pdf
 uid: 7b506d57-fd4f-3ca4-bbad-5c3116bf4c92
 ---
 This resource is the reaction paper by the student on the topics 'Border Crossings', 'Risk Perception', and 'Risk Communication'.
-

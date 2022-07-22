@@ -7,6 +7,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/4f893f2b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: platt_lect5.pdf
 uid: 4f893f2b-1d7f-6918-d450-01ac38b5ba89
 ---
 This resource gives an introduction, and provides information on 'The Land Use and Society Model' ,'Hazard Mitigation versus the Takings Issue', Calibrating Federal Disaster Policies, and ?Ecological Cities? ?A New Perspective.
-

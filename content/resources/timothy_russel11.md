@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/055b926b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: timothy_russel11.pdf
 uid: 055b926b-da2c-d502-7bd0-7f1fe6a88a81
 ---
 This resource is the reaction paper by Timothy Russell on the topic 'Disagreement with superiors about grant approval'.
-

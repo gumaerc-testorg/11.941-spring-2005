@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d2cb3d21
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: makiko_kikuchi4.pdf
 uid: d2cb3d21-d56f-f2a5-bbd6-7299ff392d19
 ---
 This resource is the reaction paper by Makiko Kikuchi on the topics 'Climate Instability and Public Health', and 'Disaster Funding'.
-

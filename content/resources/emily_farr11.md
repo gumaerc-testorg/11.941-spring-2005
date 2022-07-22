@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/5647b12f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: emily_farr11.pdf
 uid: 5647b12f-1e0d-cffc-e3ff-636247858035
 ---
 This resource talks about balancing personal interets/needs with social responsibilities.
-

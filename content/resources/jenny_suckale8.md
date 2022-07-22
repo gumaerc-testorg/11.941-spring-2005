@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fa9fc6f7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: jenny_suckale8.pdf
 uid: fa9fc6f7-8618-2081-e471-62c9382e07b9
 ---
 This resource is the reaction paper by Jenny Suckale on the topic 'Disaster Politics and Agenda Setting'.
-

@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a37f8212
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: melissa_scudo3.pdf
 uid: a37f8212-ab32-b61c-1038-87d0b150af06
 ---
 This resource is the reaction paper of Melissa Scudo on the topic 'Community Vulnerability Analysis'.
-

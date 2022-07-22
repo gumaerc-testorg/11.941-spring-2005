@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/afb64452
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: elisa_jaramillo9.pdf
 uid: afb64452-f7f9-3f6f-f7b4-068da2b279d1
 ---
 This resource is the reaction paper by Elisa Jaramillo on the topic 'The Resilient Cities'.
-

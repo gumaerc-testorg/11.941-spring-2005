@@ -6,6 +6,7 @@ file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/74a4b070
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: case_outline.pdf
 uid: 74a4b070-d713-6910-0179-c8adfb6bb78d
 ---
 This resource contains the instructions on writing the reaction paper for session 11.
-
