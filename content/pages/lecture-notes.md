@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Lecture notes contains both the slides presented in class and a complementary
+  set of notes along with lecturer's bio.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c465cf36-b2cd-f07c-c5dc-7a10d5f64453
 ---
@@ -38,7 +43,7 @@ JoAnn Carmin, MIT
 {{< tdopen >}}
 
 
-Carmin Notes ([PDF]({{< baseurl >}}/resources/carmin_lect1))
+Carmin Notes ({{% resource_link 290eca33-3caf-2e01-9a29-8501eae6cae0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -60,11 +65,11 @@ Mark Pelling, King's College
 {{< tdopen >}}
 
 
-Pelling Bio ([PDF]({{< baseurl >}}/resources/pellingbio))
+Pelling Bio ({{% resource_link a0d3112a-3873-1dfa-cd9b-eb982d3b16cb "PDF" %}})
 
-Pelling Notes ([PDF]({{< baseurl >}}/resources/pelling_lect2))
+Pelling Notes ({{% resource_link 8d957355-6bd7-a63e-c13a-f323de9b6a2d "PDF" %}})
 
-Pelling Slides ([PDF]({{< baseurl >}}/resources/pelling_lect2_s))
+Pelling Slides ({{% resource_link 273e8c47-09c9-f212-4945-ffb5d2a97b8a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -86,11 +91,11 @@ Jenny Suckale, Harvard University
 {{< tdopen >}}
 
 
-Suckale Bio ([PDF]({{< baseurl >}}/resources/suckalebio))
+Suckale Bio ({{% resource_link 302e6290-c9ae-4015-cceb-5bbc206ac646 "PDF" %}})
 
-Suckale Notes ([PDF]({{< baseurl >}}/resources/suckale_lect3))
+Suckale Notes ({{% resource_link f63dc694-c530-ad6f-f59c-3cb4c160c11b "PDF" %}})
 
-Suckale Slides ([PDF ‑ 1.5MB]({{< baseurl >}}/resources/suckale_lect3_s))
+Suckale Slides ({{% resource_link 9e239c61-df75-1f15-9db8-5bc7809539af "PDF ‑ 1.5MB" %}})
 
 
 {{< tdclose >}}
@@ -116,15 +121,15 @@ Jennifer Leaning, Harvard University
 {{< tdopen >}}
 
 
-Epstein Bio ([PDF]({{< baseurl >}}/resources/epsteinbio))
+Epstein Bio ({{% resource_link 2318dc28-bbdf-16e2-4c31-92acd3bb84de "PDF" %}})
 
-Epstein Notes ([PDF]({{< baseurl >}}/resources/epstein_lect4))
+Epstein Notes ({{% resource_link f40544c6-a94f-5e3d-8cc6-40acd9515b2d "PDF" %}})
 
-Epstein Slides ([PDF ‑ 2.5MB]({{< baseurl >}}/resources/epstein_lect4_s))
+Epstein Slides ({{% resource_link 6734f3c2-ab31-b1fc-ee1b-ce13a9304bb7 "PDF ‑ 2.5MB" %}})
 
-Leaning Notes ([PDF]({{< baseurl >}}/resources/leaning_lect4))
+Leaning Notes ({{% resource_link 3b7432a0-9a41-d558-0973-50b1a33e9219 "PDF" %}})
 
-Leaning Slides ([PDF ‑ 1.5MB]({{< baseurl >}}/resources/leaning_lect4_s))
+Leaning Slides ({{% resource_link dd2a5484-e34f-f67b-d2ef-d83dea58f8d8 "PDF ‑ 1.5MB" %}})
 
 
 {{< tdclose >}}
@@ -146,9 +151,9 @@ Rutherford H. Platt, University of Massachusetts, Amherst
 {{< tdopen >}}
 
 
-Platt Bio ([PDF]({{< baseurl >}}/resources/plattbio))
+Platt Bio ({{% resource_link b96fb7f8-53a5-eee0-52a9-0928dbb7c1c4 "PDF" %}})
 
-Platt Notes ([PDF]({{< baseurl >}}/resources/platt_lect5))
+Platt Notes ({{% resource_link 4f893f2b-1d7f-6918-d450-01ac38b5ba89 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -170,11 +175,11 @@ Ragnar Loefstedt, King's College
 {{< tdopen >}}
 
 
-Loefstedt Bio ([PDF]({{< baseurl >}}/resources/lofstedtbio))
+Loefstedt Bio ({{% resource_link 7e16dbd1-db2d-16ad-c5b0-7bca0813640b "PDF" %}})
 
-Loefstedt Notes ([PDF]({{< baseurl >}}/resources/loefstedt_lect6))
+Loefstedt Notes ({{% resource_link 910cad9c-88bc-70f4-691e-148986bc2f4c "PDF" %}})
 
-Loefstedt Slides ([PDF]({{< baseurl >}}/resources/loefstedt_lec6_s))
+Loefstedt Slides ({{% resource_link 4e01f944-0003-6c1a-0d70-46cde27e5133 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -196,11 +201,11 @@ Kathleen Tierney, University of Colorado-Boulder
 {{< tdopen >}}
 
 
-Tierney Bio ([PDF]({{< baseurl >}}/resources/tierneybio))
+Tierney Bio ({{% resource_link 48275645-9ba7-7f56-fa3f-a25ed79fdcd1 "PDF" %}})
 
-Tierney Notes ([PDF]({{< baseurl >}}/resources/tierney_lect7))
+Tierney Notes ({{% resource_link db25c3df-4a7f-bd45-055b-2d7cecd30d01 "PDF" %}})
 
-Tierney Slides ([PDF]({{< baseurl >}}/resources/tierney_lect7_s))
+Tierney Slides ({{% resource_link 4f7719a9-f8db-f0de-3f11-7d135983a8d9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -222,11 +227,11 @@ Thomas A. Birkland, SUNY Albany
 {{< tdopen >}}
 
 
-Birkland Bio ([PDF]({{< baseurl >}}/resources/birklandbio))
+Birkland Bio ({{% resource_link 84d709b3-c2a5-70db-5a16-dfb78547c114 "PDF" %}})
 
-Birkland Notes ([PDF]({{< baseurl >}}/resources/birkland_lect8))
+Birkland Notes ({{% resource_link 7587332e-0bc7-63e3-a2fe-1db537f110e8 "PDF" %}})
 
-Birkland Slides ([PDF]({{< baseurl >}}/resources/birkland_lect8_s))
+Birkland Slides ({{% resource_link d5c88781-e5e8-d69b-41f4-791f6fa0a903 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -248,9 +253,9 @@ Lawrence J. Vale, MIT
 {{< tdopen >}}
 
 
-Vale Bio ([PDF]({{< baseurl >}}/resources/valebio))
+Vale Bio ({{% resource_link 6f39c150-99e9-d0e0-d476-a1e23ab022d8 "PDF" %}})
 
-Vale Notes ([PDF]({{< baseurl >}}/resources/vale_lect9rev))
+Vale Notes ({{% resource_link 45999f98-dfc2-ef22-17fc-acd4d63fb341 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -272,11 +277,11 @@ Toddi A. Steelman, North Carolina State University
 {{< tdopen >}}
 
 
-Steelman Bio ([PDF]({{< baseurl >}}/resources/steelmanbio))
+Steelman Bio ({{% resource_link 48b3cbb2-8485-b3d5-6c36-2fb5030d7700 "PDF" %}})
 
-Steelman Notes ([PDF]({{< baseurl >}}/resources/steelman_lect10))
+Steelman Notes ({{% resource_link 9062066f-b153-6385-f077-c0353e11c243 "PDF" %}})
 
-Steelman Slides ([PDF ‑ 1.5MB]({{< baseurl >}}/resources/steelman_lec10_s))
+Steelman Slides ({{% resource_link 760afc04-004b-e885-e4f2-1efab39018d1 "PDF ‑ 1.5MB" %}})
 
 
 {{< tdclose >}}
@@ -298,9 +303,9 @@ Jenny W. Rudolph, Boston University
 {{< tdopen >}}
 
 
-Rudolph Bio ([PDF]({{< baseurl >}}/resources/rudolphbio))
+Rudolph Bio ({{% resource_link 33ff0ea5-3bd4-4965-6709-c53b3a6b552c "PDF" %}})
 
-Rudolph Notes ([PDF]({{< baseurl >}}/resources/rudolph_lect11))
+Rudolph Notes ({{% resource_link 7340a103-a71a-088f-e647-36b0330585b4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -320,7 +325,7 @@ JoAnn Carmin, MIT
 
 {{< tdclose >}}
 {{< tdopen >}}
-Carmin Notes ([PDF]({{< baseurl >}}/resources/carmin_lect12))
+Carmin Notes ({{% resource_link 6a178a4d-6f84-82a6-da50-d55e358317dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
