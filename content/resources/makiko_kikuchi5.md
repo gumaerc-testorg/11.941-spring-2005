@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by Makiko Kikuchi on the topic 'Disaster
   Policy and Institutions'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/99dd085a391d87e419ffe61511010b2a_makiko_kikuchi5.pdf
+file_size: 49612
 file_type: application/pdf
 learning_resource_types:
 - Assignments

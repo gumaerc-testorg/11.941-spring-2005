@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the biography of Pelling.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a0d3112a38731dfacd9beb982d3b16cb_pellingbio.pdf
+file_size: 64466
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

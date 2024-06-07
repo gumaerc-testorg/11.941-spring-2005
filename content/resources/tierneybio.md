@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the biography of Tierney.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/482756459ba77f56fa3fa25ed79fdcd1_tierneybio.pdf
+file_size: 61967
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource covers: Policy Sciences, The Decision Process, Concept
   of the Common Interest, Wildfire Problem, and Community Responses to Wildfire Risk.'
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/9062066fb1536385f077c0353e11c243_steelman_lect10.pdf
+file_size: 116841
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by the student on the topics 'Climate
   Instability and Public Health', and 'Disaster Funding'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/40e5f4603b9d59e1ac03ac2ed4b76491_elisa_jaramillo4.pdf
+file_size: 46542
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -5,6 +5,7 @@ description: 'This resource contains the following topics:
   theoretical framework for the analysis of, social vulnerability, ways of conceptualizing
   vulnerability, and contributors to vulnerability.'
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/4f7719a9f8dbf0de3f117d135983a8d9_tierney_lect7_s.pdf
+file_size: 251725
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

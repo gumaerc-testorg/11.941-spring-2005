@@ -5,6 +5,7 @@ description: 'This resource is the reaction paper by Naohiko Omata on the topic 
   Social Vulnerability in the City'', and ''From everyday hazards to disasters: the
   accumulation of risk in urban areas.'
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c531972bca1f0d7ac4e70d2f5ae96d1a_naohiko_omata1.pdf
+file_size: 84339
 file_type: application/pdf
 learning_resource_types:
 - Assignments

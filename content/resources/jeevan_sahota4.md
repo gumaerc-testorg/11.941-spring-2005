@@ -4,6 +4,7 @@ description: 'This resource is the reaction paper by Jeevan Sahota on the topics
   and Health'', ''Assessing Climate Stability'', and ''Smoke and mirrors: deficiencies
   in disaster funding''.'
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/53cb6d117f51b3b01047ff57e96673ee_jeevan_sahota4.pdf
+file_size: 99156
 file_type: application/pdf
 learning_resource_types:
 - Assignments

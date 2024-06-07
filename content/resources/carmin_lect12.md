@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the reminders, themes, questions for the course.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6a178a4d6f8482a6da50d55e358317dd_carmin_lect12.pdf
+file_size: 12555
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
