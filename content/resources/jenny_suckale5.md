@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by Jenny Suckale on the topic 'Disaster
   Policy and Institutions'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b90d7a7d46b568c5632e775d53ca4049_jenny_suckale5.pdf
+file_size: 53120
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by Elisa Jaramillo on the topic 'Transboundary
   Risk'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7250d5a50faee7a4ac184b3264e07d79_elisa_jaramillo6.pdf
+file_size: 50458
 file_type: application/pdf
 learning_resource_types:
 - Assignments

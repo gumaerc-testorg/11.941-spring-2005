@@ -5,6 +5,7 @@ description: 'This resource contains the following topics:
   organizing for high reliability, reflective practice as source of resilience, case
   analysis introduction, and summing up: what are the "take-aways".'
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/ce9ab560dafbaa2300aecb0e76fda7dd_rudolph_lect11_s.pdf
+file_size: 566385
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

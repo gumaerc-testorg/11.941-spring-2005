@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by the student Yumiko Nakagawa on
   the topic 'Disaster Vulnerability and Social Resilience'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/53820dea4e012312485f3f737a568e42_yumiko_nakagawa1.pdf
+file_size: 47058
 file_type: application/pdf
 learning_resource_types:
 - Assignments

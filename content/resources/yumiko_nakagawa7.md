@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by the student Yumiko Nakagawa on
   the topic 'Patterns of Social Vulnerability'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/01b8500c72b41e76f688e2b42e1319b9_yumiko_nakagawa7.pdf
+file_size: 70284
 file_type: application/pdf
 learning_resource_types:
 - Assignments

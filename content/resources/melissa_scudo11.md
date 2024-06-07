@@ -7,6 +7,7 @@ description: This resource is the reaction paper by Melissa Scudo on the topics 
   who has a different management style', and 'Moving a plan forward (when the discussion
   is stalled in circles) without appearing too aggressive'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/0f29f5d6260ddefab01b16ffe6813129_melissa_scudo11.pdf
+file_size: 128166
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by the student on the topic 'Governance
   and Community Resilience'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a2ce2952b9342214472d20ecd3fe972d_cheryl_lowry10.pdf
+file_size: 48129
 file_type: application/pdf
 learning_resource_types:
 - Assignments

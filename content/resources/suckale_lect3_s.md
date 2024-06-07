@@ -6,6 +6,7 @@ description: 'This resource contains the following topics:
   ? an example, community vulnerability survey, institutional appraisal, community
   workshop, community risk seminar, participation ? a success story?!'
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/9e239c61df751f159db85bc7809539af_suckale_lect3_s.pdf
+file_size: 787695
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
