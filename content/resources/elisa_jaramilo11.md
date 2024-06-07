@@ -4,6 +4,7 @@ description: 'This resource talks about the theme illustrated by this reaction p
   How miscommunication, specially in the mist of a intercultural working environment,
   may lead to team collapse.'
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c68ba232a5e47ea0a1969522fccd23d3_elisa_jaramilo11.pdf
+file_size: 90587
 file_type: application/pdf
 learning_resource_types:
 - Assignments

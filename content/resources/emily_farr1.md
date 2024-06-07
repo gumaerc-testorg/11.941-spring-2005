@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by Emily Farr on the topic 'Assessing
   Urban Vulnerability'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/0e15aa350ff5c6e5f18c061da9b0b479_emily_farr1.pdf
+file_size: 61348
 file_type: application/pdf
 learning_resource_types:
 - Assignments

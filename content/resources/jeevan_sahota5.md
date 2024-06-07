@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by Jeevan Sahota on the topic 'Disaster
   Policy and Institutions'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/310255344d73dd139a526c22b5e0ab08_jeevan_sahota5.pdf
+file_size: 48412
 file_type: application/pdf
 learning_resource_types:
 - Assignments

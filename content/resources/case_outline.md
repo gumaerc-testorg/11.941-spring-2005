@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the instructions on writing the reaction paper
   for session 11.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/74a4b070d71369100179c8adfb6bb78d_case_outline.pdf
+file_size: 135021
 file_type: application/pdf
 learning_resource_types:
 - Assignments

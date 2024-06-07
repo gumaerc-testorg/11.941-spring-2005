@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the biography of Rudolph.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/33ff0ea53bd449656709c53b3a6b552c_rudolphbio.pdf
+file_size: 63295
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

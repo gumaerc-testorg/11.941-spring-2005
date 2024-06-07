@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on "Organizing for High Reliability",
   and Case Analysis.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7340a103a71a088fe64736b0330585b4_rudolph_lect11.pdf
+file_size: 126486
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource is the reaction paper by Timothy Russell on the topic
   'Perception of Risk', 'Border Crossings', 'Swedish Aid and the Ignalina Nuclear
   Power Plant', and 'Risk Communication'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/df9d740d543c50c06fe562f943a772d6_timothy_russell6.pdf
+file_size: 58694
 file_type: application/pdf
 learning_resource_types:
 - Assignments

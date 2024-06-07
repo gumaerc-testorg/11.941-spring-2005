@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by Melissa Scudo on the topic 'Governance
   and Community Resilience'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/901fb5789110e14b402825861cd74123_melissa_scudo10.pdf
+file_size: 48714
 file_type: application/pdf
 learning_resource_types:
 - Assignments

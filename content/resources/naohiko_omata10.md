@@ -4,6 +4,7 @@ description: This resource is the reaction paper by Naohiko Omata on the topics 
   with governance', 'current trends with respect to governance', 'respect to governance',
   and 'resonate themes'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8a539c1ee5e9c0e9a15f0f8826be9151_naohiko_omata10.pdf
+file_size: 71705
 file_type: application/pdf
 learning_resource_types:
 - Assignments

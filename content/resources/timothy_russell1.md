@@ -5,6 +5,7 @@ description: 'This resource is the reaction paper by Timothy Russell on the topi
   Urban Vulnerability and Social Adaptation to Risk'', ''From Everydoay Hazards to
   Disasters: The accumulation of Risk in Urban Areas'', and ''Reaction''.'
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6bb489662dba20bb8dda8aad635e4c43_timothy_russell1.pdf
+file_size: 30324
 file_type: application/pdf
 learning_resource_types:
 - Assignments

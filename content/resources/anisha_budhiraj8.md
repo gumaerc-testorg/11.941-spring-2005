@@ -4,6 +4,7 @@ description: This resource is the reaction paper by the student on the topics 'D
   Focusing Events, Mobilization, and Agenda Setting', 'Business and Political Dimensions
   in Disaster Management', and 'In the Wake of the Exxon Valdez'.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/72c2699e4e18bbd933d10cb5b64afdbb_anisha_budhiraj8.pdf
+file_size: 61753
 file_type: application/pdf
 learning_resource_types:
 - Assignments
