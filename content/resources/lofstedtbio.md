@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the biography of Lofstedt.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7e16dbd1db2d16adc5b07bca0813640b_lofstedtbio.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7e16dbd1db2d16adc5b07bca0813640b_lofstedtbio.pdf
 file_size: 61813
 file_type: application/pdf
 learning_resource_types:

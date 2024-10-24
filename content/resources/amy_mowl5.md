@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is the reaction paper by Amy Mowl on the topics ''Shouldering
   the burdan: Federal Assumption of Disaster Costs''.'
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/e45d79cb52cbddd81087621e2be4dde1_amy_mowl5.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/e45d79cb52cbddd81087621e2be4dde1_amy_mowl5.pdf
 file_size: 79241
 file_type: application/pdf
 learning_resource_types:

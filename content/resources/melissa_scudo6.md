@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Melissa Scudo on the topic 'Transboundary
   Risk and Public Trust'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b0cd1b75f134d64578549007c1971061_melissa_scudo6.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b0cd1b75f134d64578549007c1971061_melissa_scudo6.pdf
 file_size: 53021
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Jenny Suckale on the topic 'Governance
   and Community Resilience'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6cda6c249e04f2687b462ea51c352c83_jenny_suckale10.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6cda6c249e04f2687b462ea51c352c83_jenny_suckale10.pdf
 file_size: 56031
 file_type: application/pdf
 learning_resource_types:

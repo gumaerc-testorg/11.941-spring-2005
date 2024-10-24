@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student Yumiko Nakagawa on
   the topic 'Transboundary Risk and Public Trust'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d3636a0108db1740c739e6a7caa106f5_yumiko_nakagawa6.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d3636a0108db1740c739e6a7caa106f5_yumiko_nakagawa6.pdf
 file_size: 60397
 file_type: application/pdf
 learning_resource_types:

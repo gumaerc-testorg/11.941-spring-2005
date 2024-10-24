@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the following topics:
 
   epidemiological framework, and ecological-epidemiological framework.'
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6734f3c2ab31b1fcee1bce13a9304bb7_epstein_lect4_s.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6734f3c2ab31b1fcee1bce13a9304bb7_epstein_lect4_s.pdf
 file_size: 2664166
 file_type: application/pdf
 learning_resource_types:

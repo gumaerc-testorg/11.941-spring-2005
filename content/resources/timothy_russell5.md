@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Timothy Russell on the topic 'Disaster
   Policy and Institutions'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/646400d3da10369088decfae7e4bf8e1_timothy_russell5.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/646400d3da10369088decfae7e4bf8e1_timothy_russell5.pdf
 file_size: 41898
 file_type: application/pdf
 learning_resource_types:

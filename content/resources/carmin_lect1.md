@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the introduction, background of the course with
   definition of terms. It also contains course objectives and organization.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/290eca333caf2e019a298501eae6cae0_carmin_lect1.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/290eca333caf2e019a298501eae6cae0_carmin_lect1.pdf
 file_size: 132687
 file_type: application/pdf
 learning_resource_types:
