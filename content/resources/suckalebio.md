@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the biography of Suckale.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/302e6290c9ae4015cceb5bbc206ac646_suckalebio.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/302e6290c9ae4015cceb5bbc206ac646_suckalebio.pdf
 file_size: 50223
 file_type: application/pdf
 learning_resource_types:

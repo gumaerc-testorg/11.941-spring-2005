@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Elisa Jaramillo on the topic 'The
   Resilient Cities'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/afb64452f7f93f6ff7b4068da2b279d1_elisa_jaramillo9.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/afb64452f7f93f6ff7b4068da2b279d1_elisa_jaramillo9.pdf
 file_size: 45480
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Ernest Guevarra on the topic 'Resilient
   Cities'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a1008290219a4b34e58fa74ef048c3b9_ernest_guevarra9.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a1008290219a4b34e58fa74ef048c3b9_ernest_guevarra9.pdf
 file_size: 31885
 file_type: application/pdf
 learning_resource_types:

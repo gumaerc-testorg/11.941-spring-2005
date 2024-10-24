@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student on the topic 'Disaster
   Politics and Agenda Setting'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c0c4daa4e5b82a3d5d13334b7657a067_emily_farr8.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c0c4daa4e5b82a3d5d13334b7657a067_emily_farr8.pdf
 file_size: 72094
 file_type: application/pdf
 learning_resource_types:
