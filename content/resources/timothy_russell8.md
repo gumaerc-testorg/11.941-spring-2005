@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Timothy Russell on the topic 'Disaster
   Politics and Agenda Setting'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7521576fe2a5ba22e2ea4a10e0d18606_timothy_russell8.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7521576fe2a5ba22e2ea4a10e0d18606_timothy_russell8.pdf
 file_size: 65914
 file_type: application/pdf
 learning_resource_types:

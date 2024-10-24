@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains introduction, about UN Intergovernmental Panel
   on Climate Change 3rd Assessment Report 2001, and  emerging infectious diseases.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f40544c6a94f5e3d8cc640acd9515b2d_epstein_lect4.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f40544c6a94f5e3d8cc640acd9515b2d_epstein_lect4.pdf
 file_size: 100526
 file_type: application/pdf
 learning_resource_types:

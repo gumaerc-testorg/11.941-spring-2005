@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Makiko Kikuchi on the topic 'Governance
   and Community Resilience'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/dcdb6d8edd6bbe269a6f45e1084a40c4_makiko_kikuchi10.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/dcdb6d8edd6bbe269a6f45e1084a40c4_makiko_kikuchi10.pdf
 file_size: 47800
 file_type: application/pdf
 learning_resource_types:

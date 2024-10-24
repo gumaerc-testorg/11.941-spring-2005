@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Jenny Suckale on the topic 'Disaster
   Politics and Agenda Setting'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fa9fc6f786182081e47162c9382e07b9_jenny_suckale8.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fa9fc6f786182081e47162c9382e07b9_jenny_suckale8.pdf
 file_size: 47630
 file_type: application/pdf
 learning_resource_types:

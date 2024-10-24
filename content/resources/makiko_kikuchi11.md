@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource talks about the challenge or theme illustrated by this
   this reaction paper on: Decision making in a highly hierarchical setting (Japan).'
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f992fc36a11e84a21f87a29ed3536b7c_makiko_kikuchi11.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f992fc36a11e84a21f87a29ed3536b7c_makiko_kikuchi11.pdf
 file_size: 70469
 file_type: application/pdf
 learning_resource_types:

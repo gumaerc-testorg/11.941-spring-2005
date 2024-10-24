@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Makiko Kikuchi on the topic 'Patterns
   of Social Vulnerability'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b432d9413c2cbd8a00f955d8a39eaa37_makiko_kikuchi7.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b432d9413c2cbd8a00f955d8a39eaa37_makiko_kikuchi7.pdf
 file_size: 50836
 file_type: application/pdf
 learning_resource_types:

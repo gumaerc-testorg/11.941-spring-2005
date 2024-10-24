@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Makiko Kikuchi on the topic 'Community
   Vulnerability Analysis'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/5699fa4aa3848eba8d1cc0b82cd086f2_makiko_kikuchi3.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/5699fa4aa3848eba8d1cc0b82cd086f2_makiko_kikuchi3.pdf
 file_size: 48289
 file_type: application/pdf
 learning_resource_types:
