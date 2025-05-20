@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student Tristan Weir on the
   topic 'Disaster Politics and Agenda Setting'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8888b3abac9ce30df3248e84f6982e68_tristan_weir8.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8888b3abac9ce30df3248e84f6982e68_tristan_weir8.pdf
 file_size: 13429
 file_type: application/pdf
 learning_resource_types:

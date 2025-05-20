@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Naohiko Omata on the topic 'Factors
   Influencing Disaster Preparedness and Response', and 'Stretching the Bonds'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8513122bc0b58baadef963ea914a8b27_naohiko_omata7.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8513122bc0b58baadef963ea914a8b27_naohiko_omata7.pdf
 file_size: 68939
 file_type: application/pdf
 learning_resource_types:

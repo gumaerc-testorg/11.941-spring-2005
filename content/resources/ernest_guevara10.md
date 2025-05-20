@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Ernest Guevarra on the topic 'Governance
   and Community Resilience'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/2a3e8c796a0b14229983932e6f97d5b9_ernest_guevara10.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/2a3e8c796a0b14229983932e6f97d5b9_ernest_guevara10.pdf
 file_size: 23950
 file_type: application/pdf
 learning_resource_types:

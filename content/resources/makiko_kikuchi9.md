@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Makiko Kikuchi on the topic 'Resilient
   Cities'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7f07511ca20ca69881b69d1e26f1faab_makiko_kikuchi9.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7f07511ca20ca69881b69d1e26f1faab_makiko_kikuchi9.pdf
 file_size: 49216
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource gives an introduction, and provides information on 'The
   Land Use and Society Model' ,'Hazard Mitigation versus the Takings Issue', Calibrating
   Federal Disaster Policies, and ?Ecological Cities? ?A New Perspective.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/4f893f2b1d7f6918d45001ac38b5ba89_platt_lect5.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/4f893f2b1d7f6918d45001ac38b5ba89_platt_lect5.pdf
 file_size: 114299
 file_type: application/pdf
 learning_resource_types:

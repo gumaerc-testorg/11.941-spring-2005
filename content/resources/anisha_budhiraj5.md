@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is the reaction paper on ''Introduction: Disasters Before
   1950'', and ''Shouldering the Burden''.'
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a422398cde201f4e74801b591ed772b4_anisha_budhiraj5.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a422398cde201f4e74801b591ed772b4_anisha_budhiraj5.pdf
 file_size: 73712
 file_type: application/pdf
 learning_resource_types:
