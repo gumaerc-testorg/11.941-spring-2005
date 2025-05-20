@@ -4,7 +4,7 @@ description: 'This resource covers problem definition
 
   agenda setting, policy development, alternative selection, implementation, eEvaluation,
   and feedback.'
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d5c88781e5e8d69b41f4791f6fa0a903_birkland_lect8_s.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d5c88781e5e8d69b41f4791f6fa0a903_birkland_lect8_s.pdf
 file_size: 195087
 file_type: application/pdf
 learning_resource_types:

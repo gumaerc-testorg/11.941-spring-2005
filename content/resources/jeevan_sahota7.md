@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource is the reaction paper by Jeevan Sahota on the topics ''The
   Nature of Vulnerability: Two Models'', ''al., Access to Resources and Coping in
   Adversity'', and ''Factors Influencing Disaster Preparedness andResponse''.'
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b57c7d987b96765f9a844619fdae6801_jeevan_sahota7.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b57c7d987b96765f9a844619fdae6801_jeevan_sahota7.pdf
 file_size: 88993
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the following topics:
 
   risk communication, and risk communication in action.'
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/910cad9c88bc70f4691e148986bc2f4c_loefstedt_lect6.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/910cad9c88bc70f4691e148986bc2f4c_loefstedt_lect6.pdf
 file_size: 117473
 file_type: application/pdf
 learning_resource_types:

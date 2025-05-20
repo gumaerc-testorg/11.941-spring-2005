@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student on the topic 'Patterns
   of Social Vulnerability'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/832656bb7dece056bc2db50d66b857d3_amy_mowl7.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/832656bb7dece056bc2db50d66b857d3_amy_mowl7.pdf
 file_size: 32825
 file_type: application/pdf
 learning_resource_types:

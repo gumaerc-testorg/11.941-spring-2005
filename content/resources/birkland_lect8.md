@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives an introduction to Why study disasters from the perspective
   of political science?, some basic concepts, and disasters and learning.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7587332e0bc763e3a2fe1db537f110e8_birkland_lect8.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7587332e0bc763e3a2fe1db537f110e8_birkland_lect8.pdf
 file_size: 141314
 file_type: application/pdf
 learning_resource_types:

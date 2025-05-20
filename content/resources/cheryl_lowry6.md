@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Cheryl Lowry on the topic 'Transboundary
   Risk and Public Trust'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/96498b55aa72dc10cbbf9fe559aed9d3_cheryl_lowry6.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/96498b55aa72dc10cbbf9fe559aed9d3_cheryl_lowry6.pdf
 file_size: 48496
 file_type: application/pdf
 learning_resource_types:

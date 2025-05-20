@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student on the topic 'Community
   Vulnerability Analysis'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/ce9ca86b1b130e80e8bbf54d48503f3d_emily_farr3.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/ce9ca86b1b130e80e8bbf54d48503f3d_emily_farr3.pdf
 file_size: 48310
 file_type: application/pdf
 learning_resource_types:

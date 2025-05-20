@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student Tristan Weir on the
   topic 'Disaster Policy and Institutions'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/99ed268b269fc72b505e4e51f059013a_tristan_weir5.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/99ed268b269fc72b505e4e51f059013a_tristan_weir5.pdf
 file_size: 12743
 file_type: application/pdf
 learning_resource_types:
