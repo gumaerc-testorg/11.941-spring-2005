@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is the reaction paper by the student on the topic ''Part
   1: Climate Instability and Public Health'', and ''Part 2: Disaster Funding''.'
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7facaab614bd034122294bfc61881796_emily_farr4.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7facaab614bd034122294bfc61881796_emily_farr4.pdf
 file_size: 66347
 file_type: application/pdf
 learning_resource_types:

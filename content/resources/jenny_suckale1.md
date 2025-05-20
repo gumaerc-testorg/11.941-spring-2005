@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Jenny Suckale on the topic 'Disaster
   Vulnerability and Social Resilience'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6605165f5429d2c1304acecfd814ddeb_jenny_suckale1.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6605165f5429d2c1304acecfd814ddeb_jenny_suckale1.pdf
 file_size: 51603
 file_type: application/pdf
 learning_resource_types:

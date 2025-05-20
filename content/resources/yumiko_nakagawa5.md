@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student Yumiko Nakagawa on
   the topic 'Disaster Policy and Institutions'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/33715858fe45c1e400f785410cddda90_yumiko_nakagawa5.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/33715858fe45c1e400f785410cddda90_yumiko_nakagawa5.pdf
 file_size: 65437
 file_type: application/pdf
 learning_resource_types:

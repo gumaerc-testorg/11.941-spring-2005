@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a reaction paper by the student on the topic Natural
   Disasters, Chapter 9.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/2879687aba2c34e03abc107036b67d8d_cheryl_lowry1.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/2879687aba2c34e03abc107036b67d8d_cheryl_lowry1.pdf
 file_size: 47843
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource is the reaction paper by the student on the topics ''Hurricane
   Andrew: Ethnicity, gender, and the sociology of disasters'', ''Social Capital: A
   Missing Link to Disaster Recovery'', and ''Political Responses to Natural Disasters''.'
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fc58f1f2dcfdd12741fade58fd17ea41_amy_mowl3.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fc58f1f2dcfdd12741fade58fd17ea41_amy_mowl3.pdf
 file_size: 69239
 file_type: application/pdf
 learning_resource_types:

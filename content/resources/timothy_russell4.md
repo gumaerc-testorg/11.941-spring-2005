@@ -3,7 +3,7 @@ content_type: resource
 description: This resource is the reaction paper by Timothy Russell on the topics
   'Is Global Warming Harmful to Health?', 'Climate and Health', and 'Assessing Climate
   Stability'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/ce2f420fba2ddd9a1935c0458555664e_timothy_russell4.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/ce2f420fba2ddd9a1935c0458555664e_timothy_russell4.pdf
 file_size: 29225
 file_type: application/pdf
 learning_resource_types:

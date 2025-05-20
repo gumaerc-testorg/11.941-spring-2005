@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student on the topic 'Threat,
   Error, and Resilience in High Hazard Settings'.
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c121b7c46d2d76ce23d4957b1ef50256_yumiko_nakagaw11.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c121b7c46d2d76ce23d4957b1ef50256_yumiko_nakagaw11.pdf
 file_size: 139910
 file_type: application/pdf
 learning_resource_types:

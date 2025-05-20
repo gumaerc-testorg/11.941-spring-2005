@@ -4,7 +4,7 @@ description: 'This resource contains the following topics:
 
   global science and policy context, urban vulnerability, and measuring vulnerability,
   and language is an unresolved barrier.'
-file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/273e8c4709c9f2124945ffb5d2a97b8a_pelling_lect2_s.pdf
+file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/273e8c4709c9f2124945ffb5d2a97b8a_pelling_lect2_s.pdf
 file_size: 289101
 file_type: application/pdf
 learning_resource_types:
