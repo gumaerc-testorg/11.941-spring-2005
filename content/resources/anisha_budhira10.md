@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reaction paper by Anisha on the topic 'Governance and Community Resilience'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/97bb1a6ab411cd632b313d2828e945f4_anisha_budhira10.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/97bb1a6ab411cd632b313d2828e945f4_anisha_budhira10.pdf
 file_size: 84243
 file_type: application/pdf
 learning_resource_types:

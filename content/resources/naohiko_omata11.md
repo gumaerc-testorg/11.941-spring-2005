@@ -2,7 +2,7 @@
 content_type: resource
 description: The theme illustrated by this resource is 'Making a press conference
   paper for the company in cross-regional situations within two days'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f895d121801e474da29cb53ecae3ec9d_naohiko_omata11.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f895d121801e474da29cb53ecae3ec9d_naohiko_omata11.pdf
 file_size: 52386
 file_type: application/pdf
 learning_resource_types:

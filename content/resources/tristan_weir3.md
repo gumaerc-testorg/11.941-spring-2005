@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student Tristan Weir on the
   topic 'Community Vulnerability Analysis'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/41c96b19569be9f4651d0fbeca1b483b_tristan_weir3.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/41c96b19569be9f4651d0fbeca1b483b_tristan_weir3.pdf
 file_size: 12707
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Mary Anderson on the topic Vunlerability
   to Disaster and Sustainable Development.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/9368915d4aee867877669afedf035dfd_cheryl_lowry3.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/9368915d4aee867877669afedf035dfd_cheryl_lowry3.pdf
 file_size: 45794
 file_type: application/pdf
 learning_resource_types:

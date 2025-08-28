@@ -5,7 +5,7 @@ description: 'This resource is the reaction paper by Jeevan Sahota on the topics
   ''Vulnerability To Disaster And Sustainable Development: A general Framework for
   Assessing Vulnerability'', and ''Targeting Households At Risk For Storms: Community
   vulnerability mapping''.'
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/e2f9ec79dd1b6d9d559580f99a83a0ab_jeevan_sahota3.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/e2f9ec79dd1b6d9d559580f99a83a0ab_jeevan_sahota3.pdf
 file_size: 49081
 file_type: application/pdf
 learning_resource_types:
