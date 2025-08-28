@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Makiko Kikuchi on the topic 'Disaster
   Politics and Agenda Setting'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fd1f13c1a8c991c708b3f9fb19ef3a17_makiko_kikuchi8.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fd1f13c1a8c991c708b3f9fb19ef3a17_makiko_kikuchi8.pdf
 file_size: 50747
 file_type: application/pdf
 learning_resource_types:

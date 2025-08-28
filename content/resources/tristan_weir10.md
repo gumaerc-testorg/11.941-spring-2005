@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student Tristan Weir on the
   topic 'Governance and Community Resilience'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/ce5541092865a0e1d52ea780bdb9e6cb_tristan_weir10.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/ce5541092865a0e1d52ea780bdb9e6cb_tristan_weir10.pdf
 file_size: 10652
 file_type: application/pdf
 learning_resource_types:

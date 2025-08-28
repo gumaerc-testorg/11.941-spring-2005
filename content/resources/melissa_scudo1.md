@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Melissa Scudo on the topic 'Disaster
   Vulnerability and Social Resilience'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/18ce4057ba34a2ed72f3305d0e4ccf42_melissa_scudo1.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/18ce4057ba34a2ed72f3305d0e4ccf42_melissa_scudo1.pdf
 file_size: 83957
 file_type: application/pdf
 learning_resource_types:

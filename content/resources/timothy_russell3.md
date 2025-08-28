@@ -4,7 +4,7 @@ description: 'This resource is the reaction paper by Timothy Russell on the topi
   ''Hurricane Andrew'', ''Political Responses to Natural Hazards'', ''Social Capital:
   A Missing Link to Disaster Recovery'', ''Targeting Households at Risk for Storms'',
   and ''Vulnerability to Disaster and Sustainable Development''.'
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/066473ad90b37e08aba054fdd06bb5de_timothy_russell3.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/066473ad90b37e08aba054fdd06bb5de_timothy_russell3.pdf
 file_size: 30663
 file_type: application/pdf
 learning_resource_types:
