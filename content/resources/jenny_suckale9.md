@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Jenny Suckale on the topic 'Resilient
   Cities'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f14e20f654cf9319ace436550bc2e54f_jenny_suckale9.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f14e20f654cf9319ace436550bc2e54f_jenny_suckale9.pdf
 file_size: 51487
 file_type: application/pdf
 learning_resource_types:

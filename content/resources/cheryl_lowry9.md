@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by the student on the topic 'Resilient
   Cities'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8a5a7cd35823e8b1971726eb0733905d_cheryl_lowry9.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8a5a7cd35823e8b1971726eb0733905d_cheryl_lowry9.pdf
 file_size: 48142
 file_type: application/pdf
 learning_resource_types:

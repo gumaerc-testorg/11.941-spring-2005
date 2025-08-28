@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Ernest Guevarra on the topic 'Patterns
   On Vulnerability and Coping'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f126860302b7be6b14c83e27c369c9b7_ernest_guevarra7.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f126860302b7be6b14c83e27c369c9b7_ernest_guevarra7.pdf
 file_size: 24363
 file_type: application/pdf
 learning_resource_types:

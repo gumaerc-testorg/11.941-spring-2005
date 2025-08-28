@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Ernest Guevarra on the topic 'Disaster
   On Focusing Events and Telling Stories'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7c5d992222b1ff153e90ced34e0bccb8_ernest_guevarra8.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7c5d992222b1ff153e90ced34e0bccb8_ernest_guevarra8.pdf
 file_size: 24909
 file_type: application/pdf
 learning_resource_types:

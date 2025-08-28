@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper of Melissa Scudo on the topic 'Community
   Vulnerability Analysis'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a37f8212ab32b61c103887d0b150af06_melissa_scudo3.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a37f8212ab32b61c103887d0b150af06_melissa_scudo3.pdf
 file_size: 81344
 file_type: application/pdf
 learning_resource_types:

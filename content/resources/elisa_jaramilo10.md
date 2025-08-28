@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the reaction paper by Elisa Jaramilo the student on
   the topic 'Problems of Governance'.
-file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6c90e0c93f576fb2b7aa606a8207fdd3_elisa_jaramilo10.pdf
+file: /ol-ocw-studio-app/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6c90e0c93f576fb2b7aa606a8207fdd3_elisa_jaramilo10.pdf
 file_size: 53921
 file_type: application/pdf
 learning_resource_types:
